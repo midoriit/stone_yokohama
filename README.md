@@ -1,2 +1,4 @@
-# stone_yokohama
-WikidataとWikimedia Commonsによる横浜市の石造物
+## WikidataとWikimedia Commonsによる横浜市の石造物
+
+* Wikidataに入っているデータをもとに、横浜市の石造物ページを作成します。
+* デジタルファーストの時代、印刷された石造物調査報告書よりもオープンデータの公開が先にくるべきではないかと思い、Proof of Conceptのために作成しました。
