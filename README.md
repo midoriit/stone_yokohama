@@ -1,0 +1,2 @@
+# stone_yokohama
+WikidataとWikimedia Commonsによる横浜市の石造物
