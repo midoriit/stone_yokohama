@@ -1,0 +1,15 @@
+.thumbnail {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  margin: 0;
+}
+.thumbnail2 {
+  width: 150px;
+  height: 150px;
+  object-fit: contain;
+  margin: 0;
+}
+.nowrap {
+  white-space: nowrap;
+}
